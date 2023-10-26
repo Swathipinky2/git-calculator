@@ -3,6 +3,9 @@
 ## Description
 This is a simple calculator project built using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Demo
+You can try the calculator online by clicking https://swathipinky2.github.io/git-calculator/.
+
 ## Features
 - Addition
 - Subtraction
